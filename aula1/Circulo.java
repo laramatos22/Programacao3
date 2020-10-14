@@ -10,7 +10,7 @@ public class Circulo {
 		this.centro = c;
 		this.raio = r;
 		area = Math.PI*this.raio*this.raio;
-		perimetro = Math.PI*this.raio;
+		perimetro = 2*Math.PI*this.raio;
 	}
 	
 	public Circulo (double x, double y, double r) {
@@ -18,7 +18,7 @@ public class Circulo {
 		this.centro = p;
 		this.raio = r;
 		area = Math.PI*this.raio*this.raio;
-		perimetro = Math.PI*this.raio;
+		perimetro = 2*Math.PI*this.raio;
 	}
 	
 	public double raio() {return this.raio;}
