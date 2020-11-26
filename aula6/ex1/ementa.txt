@@ -1,0 +1,106 @@
+segunda: 
+	-> Prato --> Nome: Prato N.5 (Vegetariano); Ingredientes: 
+		--> Alimento:
+Proteinas: 22.3
+Calorias: 345.3
+Peso: 300.0Carne --> Variedade frango 
+		--> Alimento:
+Proteinas: 21.3
+Calorias: 22.4
+Peso: 150.0Legume --> Nome Couve Flor [VEGETARIANO] 
+ PRATO VEGETARIANO 
+	-> Prato --> Nome: Prato N.8 (Vegetariano); Ingredientes: 
+		--> Alimento:
+Proteinas: 22.3
+Calorias: 345.3
+Peso: 300.0Carne --> Variedade frango 
+		--> Alimento:
+Proteinas: 21.3
+Calorias: 22.4
+Peso: 150.0Legume --> Nome Couve Flor [VEGETARIANO] 
+ PRATO VEGETARIANO 
+terça: 
+	-> Prato --> Nome: Prato N.1 (Vegetariano); Ingredientes: 
+		--> Alimento:
+Proteinas: 21.3
+Calorias: 22.4
+Peso: 150.0Legume --> Nome Couve Flor [VEGETARIANO] 
+		--> Alimento:
+Proteinas: 19.3
+Calorias: 32.4
+Peso: 110.0Cereal --> Nome Milho [VEGETARIANO] 
+ PRATO VEGETARIANO 
+quarta: 
+	-> Prato --> Nome: Prato N.7; Ingredientes: 
+		--> Alimento:
+Proteinas: 21.3
+Calorias: 22.4
+Peso: 150.0Legume --> Nome Couve Flor [VEGETARIANO] 
+		--> Alimento:
+Proteinas: 21.3
+Calorias: 22.4
+Peso: 150.0Legume --> Nome Couve Flor [VEGETARIANO] 
+ 
+quinta: 
+	-> Prato --> Nome: Prato N.2 (Vegetariano); Ingredientes: 
+		--> Alimento:
+Proteinas: 31.3
+Calorias: 25.3
+Peso: 200.0Peixe --> Variedade congelado 
+		--> Alimento:
+Proteinas: 22.3
+Calorias: 345.3
+Peso: 300.0Carne --> Variedade frango 
+ PRATO VEGETARIANO 
+	-> Prato --> Nome: Prato N.4 (Vegetariano); Ingredientes: 
+		--> Alimento:
+Proteinas: 22.3
+Calorias: 345.3
+Peso: 300.0Carne --> Variedade frango 
+		--> Alimento:
+Proteinas: 31.3
+Calorias: 25.3
+Peso: 200.0Peixe --> Variedade congelado 
+ PRATO VEGETARIANO 
+sexta: 
+	-> Prato --> Nome: Prato N.0 (Vegetariano); Ingredientes: 
+		--> Alimento:
+Proteinas: 21.3
+Calorias: 22.4
+Peso: 150.0Legume --> Nome Couve Flor [VEGETARIANO] 
+		--> Alimento:
+Proteinas: 22.3
+Calorias: 345.3
+Peso: 300.0Carne --> Variedade frango 
+ PRATO VEGETARIANO 
+	-> Prato --> Nome: Prato N.3 (Vegetariano); Ingredientes: 
+		--> Alimento:
+Proteinas: 31.3
+Calorias: 25.3
+Peso: 200.0Peixe --> Variedade congelado 
+		--> Alimento:
+Proteinas: 31.3
+Calorias: 25.3
+Peso: 200.0Peixe --> Variedade congelado 
+ PRATO VEGETARIANO 
+	-> Prato --> Nome: Prato N.9 (Dieta); Ingredientes: 
+		--> Alimento:
+Proteinas: 19.3
+Calorias: 32.4
+Peso: 110.0Cereal --> Nome Milho [VEGETARIANO] 
+		--> Alimento:
+Proteinas: 31.3
+Calorias: 25.3
+Peso: 200.0Peixe --> Variedade congelado 
+ PRATO DIETA, Total de calorias 57,70 o limite de cal. é 90,80 
+sabado: 
+	-> Prato --> Nome: Prato N.6; Ingredientes: 
+		--> Alimento:
+Proteinas: 31.3
+Calorias: 25.3
+Peso: 200.0Peixe --> Variedade congelado 
+		--> Alimento:
+Proteinas: 22.3
+Calorias: 345.3
+Peso: 300.0Carne --> Variedade frango 
+ 
