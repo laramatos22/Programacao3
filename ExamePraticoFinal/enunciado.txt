@@ -1,0 +1,35 @@
+1.[14] Tendo por base o programa fornecido(P3_19.java), considere as seguintes entidade associadas a contas de clientes em bancos:
+a) Cliente, caracterizado por um nome(String), um numero de contribuiente(String) e um tipo(balcao,online).
+b) Empresa, cliente coletivo que tem um gerente que tambem é um cliente do banco.
+c) Individual, cliente com um numero de telefone(String)
+d) Conta, caracterizada por um nuemro sequencial, um cliente, um saldo e um conjunto ilimitado de movimentos.
+e) eConta, conta eletronica pertencente a um cliente online.
+f) Eletronica, representa qualquer entidade do mundo eletronico.
+g) Movimento, caractericado por um mintante(double) e uma data(String)
+h) Debito, movimento com valor negativo
+i) credito, movimento com valor positivo
+j)Banco, caracterizado por um nome (String) e um conjunto ilimitado de Contas nao repetidas.
+
+Represente adequadamente estas entidade, Crie construtores, metodos set/get que lhe pareçam adequados, bem como metodos que sejam fundamentais para cada classe/interface.
+Teste as classes desenvolvidas usando o programa fornecido e procurando reproduzir o seguinte output:
+
+Alinea 1)----------------------------------
+
+true, true, true, true, true, false
+
+----- Listagem de contas -----
+N: 1, Cliente: Manuel Lime, Saldo: 1000.0, Movimentos: [Credito > [amount=1000.0, data=20191231]]
+N: 2, Cliente: Paula Marques, Saldo: 2000.0, Movimentos: [Credito > [amount=2000.0, data=20191231]]
+[Online] N: 3, Cliente: José Bento, Saldo: 1400.0, Movimentos: [Credito > [amount=1400.0, data=20191231]]
+N: 4, Cliente: Lima & Irmao, Saldo: 4000.0, Movimentos: [Credito > [amount=4000.0, data=20191231]]
+[Online] N: 5, Cliente: Reboques Tudo o Bento Leva, Saldo: 0.0, Movimentos:
+
+2.[6] Adicione as seguintes funcionalidades no metodo alinea2. Deve utilizar Java Streams.
+a) a leitura e processamento de movimentos de conta a partir de um ficheiro de texto("movimentos,txt").
+b) a escrita, para ficheiro, da listagem das contas com saldo negativo, apos processar os movimentos
+b) a escrita, para ficheiro, do total dos saldos das contas eletronicas, apos processar os movimentos
+
+O ficheiro de movimentos de conta apresenta a seguinte estrutura, em que dada linha inclui, separado pelo caracter ";", indicacao do tipo de movimento(C: credito, D: debito), numero de conta, montante, e data do movimento
+C;1;100;20200102
+D;3;2000;20200103
+...
