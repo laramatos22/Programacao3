@@ -1,0 +1,25 @@
+
+Alínea 1) ----------------------------------
+
+Participante [email=bmarq87756@sapinho.pt, nome=Belinda Marques]
+Participante [email=pedro@coldmail.com, nome=Pedro Silva]
+Participante [email=bm1880@sapinho.pt, nome=Anabela Lima]
+
+Responsável: Participante [email=jmartin27@kmail.pt, nome=Joaquim Martins]
+Participante [email=jmartin27@kmail.pt, nome=Joaquim Martins]
+Participante [email=lopesmar@mymail.com, nome=Maria Lopes]
+
+Feira Indústria 5.0 - Total de Expositores: 5; Total de Visitantes: 5
+Emails dos responsáveis: [chef86@cookmail.pt, bmarq87756@sapinho.pt, depois@uantes.pt, jmartin27@kmail.pt, admin@coldmail.com]
+Visitantes entre as "20181219:13:31" e as "20181219:13:35": [Visitante [num=11, entrada=20181219:13:31], Visitante [num=12, entrada=20181219:13:35]]
+[StandServicos [servico=RESTAURANTE] Stand [codigo=501, nome=Paparoca, resp=Participante [email=chef86@cookmail.pt, nome=Ana Nunes]]]
+
+Alínea 2) ----------------------------------
+
+Feira Turismo 2019 - Total de Expositores: 6; Total de Visitantes: 4
+StandOrganizacao [contacto=916652367] Stand [codigo=001, nome=Central, resp=Participante [email=admin@uax.pt, nome=Chico Bocas]]
+StandEmpresa [lista=[Participante [email=abc@uax.pt, nome=Luis Pires]]] Stand [codigo=100, nome=Norte Tropical, resp=Participante [email=abc@uax.pt, nome=Luis Pires]]
+StandEmpresa [lista=[Participante [email=v231@uax.com, nome=Maria Matos]]] Stand [codigo=101, nome=Sul Glacial, resp=Participante [email=v231@uax.com, nome=Maria Matos]]
+StandEmpresa [lista=[Participante [email=j3223@uax.es, nome=Paulo Paula]]] Stand [codigo=102, nome=EspiritoDoBem, resp=Participante [email=j3223@uax.es, nome=Paulo Paula]]
+StandServicos [servico=CAFETARIA] Stand [codigo=200, nome=KatieDosBifes, resp=Participante [email=kjd231@uax.com, nome=Rui Matias]]
+StandServicos [servico=RESTAURANTE] Stand [codigo=201, nome=MariaDosOssos, resp=Participante [email=liuj@uax.pt, nome=Carla Rio]]
