@@ -1,0 +1,23 @@
+#Utilizadores: U;TipoUtilizador;NMEC;NOME;DataInscricao
+U;Professor;4268;Claudio Marques;2021-01-10
+U;Aluno;9011;Joana Fernandes;2021-01-10
+U;Aluno;10888;Fernando Silva;2021-01-12
+U;AlunoPosGrad;8012;Catarina Miranda;2021-01-13
+#Items: I;ISBN;Titulo;DiasEmprestimo;Quantidade
+I;978-1337102087;C++ Programming: From Problem Analysis to Program Design;7;4
+I;978-0321714114;C++ Primer;7;3
+I;978-1491952023;JavaScript: The Definitive Guide;7;2
+I;978-1492037651;Programming TypeScript: Making Your JavaScript Applications Scale;14;6
+I;978-1492056270;Learning Java: An Introduction to Real-World Programming with Java;5;2
+I;978-1449355739;Learning Python;5;2
+#Empréstimos: E;NMEC;ISBN;DataEmprestimo
+#Devoluções: D;NMEC;ISBN;DataDevolução
+E;4268;978-1337102087;2021-02-03
+E;8012;978-1491952023;2021-02-03
+E;8012;978-0321714114;2021-02-08
+E;8012;978-1492037651;2021-02-08
+E;9011;978-1492056270;2021-02-10
+E;10888;978-1492056270;2021-02-11
+E;8012;978-1449355739;2021-02-11
+D;8012;978-0321714114;2021-02-12
+E;8012;978-1449355739;2021-02-12
